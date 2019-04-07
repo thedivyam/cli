@@ -1,10 +1,3 @@
-/*
-OPERATING SYSTEMS PROGRAMMING
-CASE STUDY B
-DIVYAM KSHATRIYA
-19231378
-*/
-
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
