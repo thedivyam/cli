@@ -1,2 +1,2 @@
-# cli
-Basic C Shell
+# Linux Shell based on C
+
